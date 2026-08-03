@@ -18,17 +18,17 @@ Passionate about building software, IoT systems, telecommunications solutions an
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
-- 🎓 BEng Computer & Telecommunications Graduate from **Botswana International University of Science and Technology (BIUST)**
-- 🔭 Interested in **Software Engineering, Data Analytics, Telecommunications, IoT and Embedded Systems**
-- 🌱 Currently expanding my skills in **Python, SQL, Data Analytics, Networking and Cloud Technologies**
-- 🤝 Open to Graduate Engineering, Software Development and Technology opportunities
-- 📍 Gaborone, Botswana
+- BEng Computer & Telecommunications Graduate from **Botswana International University of Science and Technology (BIUST)**
+- Interested in **Software Engineering, Data Analytics, Telecommunications, IoT and Embedded Systems**
+- Currently expanding my skills in **Python, SQL, Data Analytics, Networking and Cloud Technologies**
+- Open to Graduate Engineering, Software Development and Technology opportunities
+- Gaborone, Botswana
 
 ---
 
-# 🛠️ Technical Skills
+# Technical Skills
 
 ### Programming
 
@@ -54,7 +54,7 @@ Passionate about building software, IoT systems, telecommunications solutions an
 
 ---
 
-# 🚀 Featured Engineering Projects
+# Featured Engineering Projects
 
 ## Smart Electric Bike Telemetry Platform
 
@@ -92,22 +92,22 @@ Contributed to the design and development of a healthcare communication platform
 
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
-### 🔬 Research Assistant Intern — BIUST
+### Research Assistant Intern — BIUST
 
 - Supported faculty-led research projects and publications.
 - Prepared technical documentation and research presentations.
 - Collaborated on multidisciplinary engineering research.
 
-### 🌐 AI & Web Development Intern — VitaNova International Alliance for Sciences
+### AI & Web Development Intern — VitaNova International Alliance for Sciences
 
 - Developed practical skills in AI, web technologies and cloud computing.
 - Worked on software development concepts, modern web architecture and responsible AI.
 
 ---
 
-# 🌟 Leadership
+# Leadership
 
 ### STEM Outreach Volunteer
 
@@ -115,7 +115,7 @@ Mentored primary, junior and senior school students in electronics, robotics and
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p align="left">
 
