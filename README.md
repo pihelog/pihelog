@@ -1,112 +1,155 @@
-# Hi, I'm Goitse Pihelo 👋
+<h1 align="center">Hi 👋, I'm Goitse Pihelo</h1>
 
-🎓 **BEng Computer & Telecommunications Graduate**  
-📍 Gaborone, Botswana
+<h3 align="center">
+BEng Computer & Telecommunications Graduate
+</h3>
 
-I enjoy building software and engineering solutions that combine **data, networking, embedded systems, and analytics** to solve practical problems.
+<p align="center">
+Passionate about building software, IoT systems, telecommunications solutions and data-driven engineering applications.
+</p>
 
-Currently seeking graduate opportunities in:
+<p align="center">
 
-- 💻 Software Engineering
-- 📡 Telecommunications
-- 🌐 Networking
-- 🤖 IoT & Embedded Systems
-- 📊 Data Analytics
+<a href="https://github.com/pihelog">
+<img src="https://komarev.com/ghpvc/?username=pihelog&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+
+</p>
 
 ---
 
-# Technical Skills
+# 👨‍💻 About Me
+
+- 🎓 BEng Computer & Telecommunications Graduate from **Botswana International University of Science and Technology (BIUST)**
+- 🔭 Interested in **Software Engineering, Data Analytics, Telecommunications, IoT and Embedded Systems**
+- 🌱 Currently expanding my skills in **Python, Data Analytics, Networking and Cloud Technologies**
+- 🤝 Open to Graduate Engineering, Software Development and Technology opportunities
+- 📍 Gaborone, Botswana
+
+---
+
+# 🛠️ Technical Skills
 
 ### Programming
-- Python
-- C
-- C++
-- MATLAB
 
-### Networking
-- TCP/IP
-- Routing & Switching
-- Cisco Packet Tracer
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge)
 
-### Embedded Systems
-- Arduino
-- IoT
+### Networking & Embedded Systems
 
-### Software & Tools
-- Streamlit
-- Git
-- Proteus
-- Multisim
-- SolidWorks
-- Fusion 360
-- LaTeX
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-4CAF50?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-1E88E5?style=for-the-badge)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+### Software & Engineering Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
-# Featured Engineering Projects
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pihelog&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pihelog&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=pihelog&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Engineering Projects
 
 ## 🚲 Smart Electric Bike Telemetry Platform
 
-Designed and developed an IoT telemetry platform that collects, transmits and visualizes real-time e-bike sensor data using:
+Designed and developed an IoT telemetry platform for smart electric bikes using **Arduino Mega, Python, Streamlit, LightningChart, GSM and GPS** to collect, transmit and visualize real-time sensor data for performance monitoring and rider safety.
 
-- Arduino Mega
-- Python
-- Streamlit
-- LightningChart
-- GSM
-- GPS
-
-🔗 Repository:
-https://github.com/pihelog/DDD_ebike_dashboard
+**Repository:**  
+🔗 https://github.com/pihelog/DDD_ebike_dashboard
 
 ---
 
 ## 🏭 Industrial Machine Health Monitoring System *(Contributor)*
 
-Contributed to the development of a Python-based industrial telemetry platform that processes multi-sensor factory data through digital communication techniques to support machine condition monitoring and anomaly detection.
+Contributed to the development of an end-to-end industrial IoT telemetry platform that processes multi-sensor factory data through analog and digital communication techniques to support real-time condition monitoring, anomaly detection and dashboard visualization.
 
-🔗 Repository:
-https://github.com/kgosipako419-oss/INDUSTRIAL-MACHINE-HEALTH-MONITORING-SYSTEM
-
----
-
-## 📡 Adaptive Digital Communication System *(Contributor)*
-
-Contributed to the implementation of a digital communication simulator supporting multiple modulation techniques including AM, FM, ASK, FSK and PSK with BER analysis for communication performance evaluation.
-
-🔗 Repository:
-https://github.com/geranimoekia/Adaptive-Digital-Communication-System-With-BER-Optimization
+**Repository:**  
+🔗 https://github.com/kgosipako419-oss/INDUSTRIAL-MACHINE-HEALTH-MONITORING-SYSTEM
 
 ---
 
-## 🏥 District Telehealth & Emergency Network *(Contributor)*
+## 📡 Adaptive Digital Communication System with BER Optimization *(Contributor)*
 
-Contributed to the development of a healthcare communication platform integrating remote monitoring, emergency notification and patient location services.
+Contributed to the development of a Python-based communication simulator implementing **AM, FM, ASK, FSK and PSK modulation**, AWGN channel modelling, demodulation and Bit Error Rate (BER) analysis for communication performance evaluation.
 
----
-
-# Experience
-
-- 🔬 Research Assistant Intern — BIUST
-- 🌐 AI & Web Development Intern — VitaNova International Alliance for Sciences
+**Repository:**  
+🔗 https://github.com/geranimoekia/Adaptive-Digital-Communication-System-With-BER-Optimization
 
 ---
 
-# Leadership
+## 🏥 District Telehealth and Emergency Communication Network *(Contributor)*
 
-STEM Outreach Volunteer
+Contributed to the design and development of a healthcare communication platform integrating remote patient monitoring, emergency communication and location-based services to support timely medical response and healthcare accessibility.
 
-Mentored primary, junior and senior school students in electronics, robotics and Scratch for Arduino (S4A), guiding them in designing, building and programming engineering projects.
+**Repository:**  
+🔗 https://github.com/geranimoekia/District-Telehealth-And-Emergency-Communication-Network
 
 ---
 
-# Connect with me
+# 💼 Professional Experience
 
-📧 Email:
-goitsepihelo2@gmail.com
+### 🔬 Research Assistant Intern — BIUST
 
-💼 LinkedIn:
-https://www.linkedin.com/in/goitse-pihelo-88a963293
+- Supported faculty-led research projects and publications.
+- Prepared technical documentation and research presentations.
+- Collaborated on multidisciplinary engineering research.
 
-🌐 Portfolio:
-https://www.portofly.com/en/goitse-pihelo
+### 🌐 AI & Web Development Intern — VitaNova International Alliance for Sciences
+
+- Developed practical skills in AI, web technologies and cloud computing.
+- Worked on software development concepts, modern web architecture and responsible AI.
+
+---
+
+# 🌟 Leadership
+
+### STEM Outreach Volunteer
+
+Mentored primary, junior and senior school students in electronics, robotics and Scratch for Arduino (S4A), guiding them through the design, construction and programming of hands-on engineering projects.
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:goitsepihelo2@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/goitse-pihelo-88a963293">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pihelog">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
