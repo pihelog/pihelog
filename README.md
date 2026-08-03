@@ -22,7 +22,7 @@ Passionate about building software, IoT systems, telecommunications solutions an
 
 - 🎓 BEng Computer & Telecommunications Graduate from **Botswana International University of Science and Technology (BIUST)**
 - 🔭 Interested in **Software Engineering, Data Analytics, Telecommunications, IoT and Embedded Systems**
-- 🌱 Currently expanding my skills in **Python, Data Analytics, Networking and Cloud Technologies**
+- 🌱 Currently expanding my skills in **Python, SQL, Data Analytics, Networking and Cloud Technologies**
 - 🤝 Open to Graduate Engineering, Software Development and Technology opportunities
 - 📍 Gaborone, Botswana
 
@@ -36,6 +36,7 @@ Passionate about building software, IoT systems, telecommunications solutions an
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Networking & Embedded Systems
 
@@ -50,28 +51,6 @@ Passionate about building software, IoT systems, telecommunications solutions an
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?style=for-the-badge)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pihelog&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pihelog&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=pihelog&theme=github-dark&hide_border=true"/>
-
-</p>
 
 ---
 
