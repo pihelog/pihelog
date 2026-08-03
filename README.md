@@ -56,7 +56,7 @@ Passionate about building software, IoT systems, telecommunications solutions an
 
 # 🚀 Featured Engineering Projects
 
-## 🚲 Smart Electric Bike Telemetry Platform
+## Smart Electric Bike Telemetry Platform
 
 Designed and developed an IoT telemetry platform for smart electric bikes using **Arduino Mega, Python, Streamlit, LightningChart, GSM and GPS** to collect, transmit and visualize real-time sensor data for performance monitoring and rider safety.
 
@@ -65,7 +65,7 @@ Designed and developed an IoT telemetry platform for smart electric bikes using 
 
 ---
 
-## 🏭 Industrial Machine Health Monitoring System *(Contributor)*
+## Industrial Machine Health Monitoring System *(Contributor)*
 
 Contributed to the development of an end-to-end industrial IoT telemetry platform that processes multi-sensor factory data through analog and digital communication techniques to support real-time condition monitoring, anomaly detection and dashboard visualization.
 
@@ -74,7 +74,7 @@ Contributed to the development of an end-to-end industrial IoT telemetry platfor
 
 ---
 
-## 📡 Adaptive Digital Communication System with BER Optimization *(Contributor)*
+## Adaptive Digital Communication System with BER Optimization *(Contributor)*
 
 Contributed to the development of a Python-based communication simulator implementing **AM, FM, ASK, FSK and PSK modulation**, AWGN channel modelling, demodulation and Bit Error Rate (BER) analysis for communication performance evaluation.
 
@@ -83,7 +83,7 @@ Contributed to the development of a Python-based communication simulator impleme
 
 ---
 
-## 🏥 District Telehealth and Emergency Communication Network *(Contributor)*
+## District Telehealth and Emergency Communication Network *(Contributor)*
 
 Contributed to the design and development of a healthcare communication platform integrating remote patient monitoring, emergency communication and location-based services to support timely medical response and healthcare accessibility.
 
